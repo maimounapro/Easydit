@@ -1,0 +1,12 @@
+.edition{
+    background-color:blue;
+    text-align: left;
+}
+.document{
+    background-color:chartreuse;
+    text-align: center;
+}
+.element{
+    background-color:gold;
+    text-align: right;
+}
